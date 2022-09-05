@@ -1,0 +1,8 @@
+^unagi-na.amazon.com
+^dp-gw-na.amazon.com	
+^alt1-mtalk.google.com	
+^mtalk.google.com	
+^tabletcaptiveportal.com	
+^fireoscaptiveportal.com	
+^device-messaging-na.amazon.com	
+^126.4.168.192.in-addr.arpa
