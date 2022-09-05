@@ -3,7 +3,7 @@
 - - -
 Navigate to http://Your-Pihole-IP/admin/groups-domains.php and click on the RegEx filter tab towards the top of the page.
 
-Copy the domains at #(insert link here)# and paste the domains into the box labled as "Domain:" and click Add to Blocklist. 
+Copy the domains at [#(insert link here)#](https://github.com/Rudy-From-Kickin-It/Pi-Hole-list-for-Amazon-lockscreen-ads/blob/main/RegEx.txt) and paste the domains into the box labled as "Domain:" and click Add to Blocklist. 
 
 ## Adding more domains
 - - -
